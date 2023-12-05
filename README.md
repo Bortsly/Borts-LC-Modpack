@@ -23,7 +23,7 @@ Now go to the latest release on this page.
 
 ![image](https://github.com/Bortsly/Borts-LC-Modpack/assets/34387088/763706a2-3ad9-4d30-bb32-4141f2b5e96f)
 
-And download the BCML.zip. Select all of the files in the zip and drag them into your Lethal Company folder. 
+And click on BCML.zip to download the modpack. Select all of the files in the zip and drag them into your Lethal Company folder. 
 
 If you installed them correctly your folder will look like the image below and open a command prompt on game launch. 
 
