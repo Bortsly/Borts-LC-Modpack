@@ -1,5 +1,5 @@
 # Borts-LC-Modpack
-My custom modpack for lethal company curated for friends. Made to be as simple as possible to install.
+My custom modpack for Lethal Company curated for friends. Made to be as simple as possible to install.
 
 
 Installation Instructions
