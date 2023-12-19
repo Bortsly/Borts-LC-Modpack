@@ -4,7 +4,7 @@ My custom modpack for Lethal Company curated for friends. Made to be as simple a
 
 Installation Instructions
 -------------------------------
-Warning: If you are upgrading from v1.0 to v2.0 of the modpack you will need a fresh install!!!
+Warning: If you are upgrading from v1.0 to v2.0 of the modpack you will need a fresh install!!! This means you have to delete the files int he folder, uninstalling will not work!!!!
 
 All you have to do install this modpack is copy the files from the zip to your games root folder. 
 
